@@ -7,13 +7,19 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
+<html lang="es">
 	<head>
+
+		{% include protocol.html %}
+		{% include favicons.html %}
+
 		<title>{{ page.title | prepend: 'Ariadna Ballestar - '}}</title>
 		<meta charset="utf-8" /> 
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+		{% include mobify.html %}
+
 		<!--[if lte IE 8]><script src={{ "/galleryassets/js/ie/html5shiv.js" | prepend: site.baseurl }} ></script><![endif]-->
-		{% capture my_variable %}I am being captured.{% endcapture %}
 		<link rel="stylesheet" href={{ "/galleryassets/css/main.css" | prepend: site.baseurl | prepend: site.url }} />
 		<!--<link rel="stylesheet" href="https://ariadnaballestar.com/sesiones/galleryassets/css/main.css" />--> <!-- TODO! -->
 
@@ -111,5 +117,7 @@
 			<script src={{ "/galleryassets/js/util.js" | prepend: site.baseurl }} ></script>
 			<!--[if lte IE 8]><script src={{ "/galleryassets/js/ie/respond.min.js" | prepend: site.baseurl }} ></script><![endif]-->
 			<script src={{ "/galleryassets/js/main.js" | prepend: site.baseurl }} ></script>
+
+			{% include google-analytics.html %}
 	</body>
 </html>
