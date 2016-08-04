@@ -37,7 +37,7 @@
 						<nav>
 							<ul>
 								<li><a href="#footer" class="icon fa-info-circle">About</a></li>
-								<li><a href="../../../" class="button small volver"><i class="fa fa-angle-double-left"></i>&nbsp;Volver</a></li>
+								<li><a href="./" class="button small volver"><i class="fa fa-angle-double-left"></i>&nbsp;Volver</a></li>
 							</ul>
 						</nav>
 					</header>
@@ -67,8 +67,8 @@
 						<div class="inner split">
 							<div>
 								<section>
-									<h2>Magna feugiat sed adipiscing</h2>
-									<p>{{ "/galleryassets/css/main.css" | prepend: site.baseurl | prepend: site.url }}</p>
+									<h2>{{ page.title }}</h2>
+									<p>{{ page.informacion }}</p>
 									<!--<p>Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum.</p>-->
 								</section>
 								<section>
@@ -85,6 +85,7 @@
 									&copy; Unttled. Design: <a href="http://html5up.net">HTML5 UP</a>.
 								</p>
 							</div>
+
 							<div>
 								<section>
 									<h2>Get in touch</h2>
