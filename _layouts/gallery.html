@@ -71,6 +71,20 @@
 									<p>{{ page.informacion }}</p>
 									<!--<p>Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum.</p>-->
 								</section>
+								<p class="copyright">
+									&copy; Ariadna Ballestar | Todos los derechos reservados
+								</p>
+							</div>
+
+							<div>
+								<section>
+									<h2>Participantes y colaboradores</h2>
+									<ul>
+									{% for colaborador in page.colaboradores %}
+										<li>{{ colaborador.title }} <a href="{{ colaborador.link }}">{{ colaborador.name }}</a></li>
+									{% endfor %}
+									</ul>
+								</section>
 								<section>
 									<h2>Más en ...</h2>
 
@@ -80,30 +94,6 @@
 											<li><a href="#contacto" class="icon alt fa-envelope scrolly"><span class="label">Email</span></a></li>
 											<li><a href="galerias/sobre-mi.html" class="icon alt fa-question"><span class="label">Sobre mí</span></a></li>
 										</ul>
-								</section>
-								<p class="copyright">
-									&copy; Unttled. Design: <a href="http://html5up.net">HTML5 UP</a>.
-								</p>
-							</div>
-
-							<div>
-								<section>
-									<h2>Get in touch</h2>
-									<form method="post" action="#">
-										<div class="field half first">
-											<input type="text" name="name" id="name" placeholder="Name" />
-										</div>
-										<div class="field half">
-											<input type="text" name="email" id="email" placeholder="Email" />
-										</div>
-										<div class="field">
-											<textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
-										</div>
-										<ul class="actions">
-											<li><input type="submit" value="Send" class="special" /></li>
-											<li><input type="reset" value="Reset" /></li>
-										</ul>
-									</form>
 								</section>
 							</div>
 						</div>
