@@ -33,10 +33,10 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1><a href="https://ariadnaballestar.com"><strong>Ariadna Ballestar</strong> fotografía</a></h1>
+						<h1><a href="https://ariadnaballestar.com"><strong>Ariadna Ballestar</strong></a></h1>
 						<nav>
 							<ul>
-								<li><a href="#footer" class="icon fa-info-circle">About</a></li>
+								<li><a href="#footer" class="icon fa-info-circle">info</a></li>
 								<li><a href="./" class="button small volver"><i class="fa fa-angle-double-left"></i>&nbsp;Volver</a></li>
 							</ul>
 						</nav>
@@ -44,8 +44,9 @@
 
 				<!-- Main -->
 					<div id="main">
-						{% for image in site.static_files %}
-							{% if image.path contains 'images/' and image.path contains page.images and image.path contains 'thumbs/'%}
+						{% assign images = site.static_files | sort: 'path' | reverse %}
+						{% for image in images %}
+							{% if image.path contains 'images/' and image.path contains /page.images/ and image.path contains 'thumbs/'%}
 							<article class="thumb">
 								<a href="{{ site.baseurl }}{{ image.path | replace_first:'thumbs','fulls'}}" class="image"><img src="{{ site.baseurl }}{{ image.path }}" alt="" /></a>
 								<h2></h2>
@@ -87,11 +88,10 @@
 								</section>
 								<section>
 									<h2>Más en ...</h2>
-
 										<ul class="icons">
 											<li><a href="https://www.facebook.com/ari.ballestar" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 											<li><a href="https://www.instagram.com/ariadna_ballestar" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-											<li><a href="#contacto" class="icon alt fa-envelope scrolly"><span class="label">Email</span></a></li>
+											<li><a href="../../contacto" class="icon alt fa-envelope scrolly"><span class="label">Email</span></a></li>
 											<li><a href="galerias/sobre-mi.html" class="icon alt fa-question"><span class="label">Sobre mí</span></a></li>
 										</ul>
 								</section>
