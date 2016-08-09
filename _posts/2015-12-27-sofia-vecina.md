@@ -3,7 +3,7 @@
 layout: gallery
 
 # Título en la página /sesiones
-title:  "Sonia vecina"
+title:  "Sonia"
 
 # Subtítulo junto al título 
 info: "Subtítulo sesion"
@@ -15,14 +15,11 @@ images: Sonia-vecina
 permalink: /sonia-vecina
 
 # Información detallada sobre la sesión
-informacion: "Lorem ipsum dolor sit amet, mei mollis voluptua at. In qui fugit assum, ex pri sanctus accusamus moderatius, sit eu probo graece hendrerit. Graeco appareat per id, ne primis volumus delectus pro. Melius mediocrem comprehensam mei ei, fugit facilisi honestatis eu eum, mel stet putent essent et."
+informacion: "Con Sonia hicimos una mini sesión por las calles de Fraga. En lugares que nos han visto crecer, por los que solíamos corretear y hacer el gamberro, pero esta vez, los recorrimos para darles una nueva visión. Como es habitual en Fraga por esas fechas, la niebla nos acompañó durante casi toda la sesión."
 
 # Colaboradores
 colaboradores:
  - title: "Modelo:"
-   name: "Nombre"
+   name: "Sonia Navarro"
    link: "https://gmail.com"
- - title: "Maquilladora:"
-   name: "Nombre"
-   link: "https://google.es"
 ---
