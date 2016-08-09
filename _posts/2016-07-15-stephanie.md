@@ -15,14 +15,11 @@ images: Stephanie
 permalink: /stephanie
 
 # Información detallada sobre la sesión
-informacion: "Lorem ipsum dolor sit amet, mei mollis voluptua at. In qui fugit assum, ex pri sanctus accusamus moderatius, sit eu probo graece hendrerit. Graeco appareat per id, ne primis volumus delectus pro. Melius mediocrem comprehensam mei ei, fugit facilisi honestatis eu eum, mel stet putent essent et."
+informacion: "Con Stephanie fuimos a una localización desconocida para mí hasta el momento. Un lugar mágico y lleno de encanto donde hicimos una sesión prácticamente solas. Lo único que nos acompañó desde el cielo fue un drone del que desconocíamos (y seguimos desconociendo) su procedencia."
 
 # Colaboradores
 colaboradores:
  - title: "Modelo:"
-   name: "Nombre"
-   link: "https://gmail.com"
- - title: "Maquilladora:"
-   name: "Nombre"
-   link: "https://google.es"
+   name: "Stephanie"
+   link: "https://www.instagram.com/stephaniegille_/"
 ---
