@@ -1991,3 +1991,8 @@
 	.volver {
 		margin-right: 1em;
 	}
+
+
+	.caption {
+		display: none;
+	}
