@@ -79,8 +79,8 @@
 											<h2>{{ post.title }}</h2>
 											<div class="content">
 												<p>
-												{% assign m = page.date | date: "%-m" %}
-												{{ page.date | date: "%-d" }} de
+												{% assign m = post.date | date: "%-m" %}
+												{{ post.date | date: "%-d" }} de
 												{% case m %}
 												  {% when '1' %}enero
 												  {% when '2' %}febrero
@@ -95,7 +95,7 @@
 												  {% when '11' %}noviembre
 												  {% when '12' %}diciembre
 												{% endcase %} del 
-												{{ page.date | date: "%Y" }}
+												{{ post.date | date: "%Y" }}
 												</p>
 											</div>
 										</a>
