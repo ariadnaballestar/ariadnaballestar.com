@@ -15,14 +15,10 @@ images: Salva-y-Barbara
 permalink: /Salva-y-Barbara
 
 # Información detallada sobre la sesión
-informacion: "Lorem ipsum dolor sit amet, mei mollis voluptua at. In qui fugit assum, ex pri sanctus accusamus moderatius, sit eu probo graece hendrerit. Graeco appareat per id, ne primis volumus delectus pro. Melius mediocrem comprehensam mei ei, fugit facilisi honestatis eu eum, mel stet putent essent et."
+informacion: "Salva y Bárbara son una pareja encantadora. Les acompañé una mañana por un parque de Barcelona y, mientras ellos daban un paseo, yo iba fotografiando. El buen día nos acompañó, todo fue muy bonito y fluyó con naturalidad."
 
 # Colaboradores
 colaboradores:
- - title: "Modelo:"
-   name: "Nombre"
-   link: "https://gmail.com"
- - title: "Maquilladora:"
-   name: "Nombre"
-   link: "https://google.es"
+ - title: "Pareja:"
+   name: "Salva y Bárbara"
 ---
