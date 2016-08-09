@@ -44,7 +44,7 @@
 
 				<!-- Main -->
 					<div id="main">
-						{% assign images = site.static_files | sort: 'path' | reverse %}
+						{% assign images = site.static_files | sort: 'path' %}
 						{% for image in images %}
 							{% if image.path contains 'images/' and image.path contains /page.images/ and image.path contains 'thumbs/'%}
 							<article class="thumb">
@@ -69,6 +69,27 @@
 							<div>
 								<section>
 									<h2>{{ page.title }}</h2>
+									{{ if page.date }}
+										<h6>
+											{% assign m = page.date | date: "%-m" %}
+											{{ page.date | date: "%-d" }} de
+											{% case m %}
+											  {% when '1' %}enero
+											  {% when '2' %}febrero
+											  {% when '3' %}marzo
+											  {% when '4' %}abril
+											  {% when '5' %}mayo
+											  {% when '6' %}junio
+											  {% when '7' %}julio
+											  {% when '8' %}agosto
+											  {% when '9' %}septiembre
+											  {% when '10' %}octubre
+											  {% when '11' %}noviembre
+											  {% when '12' %}diciembre
+											{% endcase %} del 
+											{{ page.date | date: "%Y" }}
+										</h6>
+									{{ endif }}
 									<p>{{ page.informacion }}</p>
 									<!--<p>Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum.</p>-->
 								</section>
