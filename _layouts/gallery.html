@@ -50,7 +50,7 @@
 							{% if image.path contains 'images/' and image.path contains imagespath and image.path contains 'thumbs/'%}
 							<article class="thumb">
 								<a href="{{ site.baseurl }}{{ image.path | replace_first:'thumbs','fulls'}}" class="image"><img src="{{ site.baseurl }}{{ image.path }}" alt="" /></a>
-								<h2></h2>
+								<h2>{{ imagespath }}</h2>
 								<p></p>
 							</article>
 							{% endif %}
