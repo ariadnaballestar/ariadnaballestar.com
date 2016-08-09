@@ -103,7 +103,11 @@
 									<h2>Participantes y colaboradores</h2>
 									<ul>
 									{% for colaborador in page.colaboradores %}
-										<li>{{ colaborador.title }} <a href="{{ colaborador.link }}">{{ colaborador.name }}</a></li>
+										{{ if colaborador.link }}
+											<li>{{ colaborador.title }} <a href="{{ colaborador.link }}">{{ colaborador.name }}</a></li>
+										{{ else }}
+											<li>{{ colaborador.title }}{{ colaborador.name }}</a></li>
+										{{ endif }}
 									{% endfor %}
 									</ul>
 								</section>
