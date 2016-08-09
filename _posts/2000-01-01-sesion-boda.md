@@ -3,7 +3,7 @@
 layout: gallery
 
 # Título en la página /sesiones
-title:  "Sesion boda"
+title:  "Catherine y Aida"
 
 # Subtítulo junto al título 
 info: "Subtítulo sesion"
@@ -15,14 +15,28 @@ images: Sesion-boda
 permalink: /sesion-boda
 
 # Información detallada sobre la sesión
-informacion: "Lorem ipsum dolor sit amet, mei mollis voluptua at. In qui fugit assum, ex pri sanctus accusamus moderatius, sit eu probo graece hendrerit. Graeco appareat per id, ne primis volumus delectus pro. Melius mediocrem comprehensam mei ei, fugit facilisi honestatis eu eum, mel stet putent essent et."
+informacion: "En esta sesión es, sin duda, con la que más colaboradores he trabajado a la vez. Como siempre, la mejor maquilladora, Jenni. Dos modelos preciosas que facilitaron mucho el trabajo. Con flores y joyas súper bonitas para adornar unos vestidos que también eran preciosos. "
 
 # Colaboradores
 colaboradores:
- - title: "Modelo:"
-   name: "Nombre"
-   link: "https://gmail.com"
  - title: "Maquilladora:"
-   name: "Nombre"
-   link: "https://google.es"
+   name: "Jennifer Fernández"
+   link: "http://www.makeupjennifer.com/"
+ - title: "Modelo:"
+   name: "Catherine"
+   link: "https://www.facebook.com/catherine.fuentesromero"
+ - title: "Modelo:"
+   name: "Aida"
+   link: "https://www.facebook.com/aida.seguracerdana?fref=ts"
+ - title: "Adornos florales:"
+   name: "L'Esprit des Fleurs/flores"
+   link: "https://www.facebook.com/lespritdesfleurs/"
+ - title: "Joyería:"
+   name: "Sonia & co"
+   link: "https://www.facebook.com/Sonia-co-521392037997859/"
+ - title: "Estilismo:"
+   name: "Royal Couture"
+   link: "https://www.facebook.com/RoyalCouture/"
+ - title: "Estilista:"
+   name: "Daniel Vallet Galera"
 ---
