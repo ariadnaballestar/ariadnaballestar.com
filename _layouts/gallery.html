@@ -14,6 +14,14 @@
 		{% include favicons.html %}
 
 		{% seo %}
+
+		{% assign images = site.static_files | sort: 'path' %}
+		{% for image in images %}
+			{% capture imagespath %}/{{ page.images }}/{% endcapture %}
+			{% if image.path contains 'images/' and image.path contains imagespath and image.path contains '/portada.jpg'%}
+				<meta property="og:image" content="{{ site.baseurl }}{{ image.path }}" />
+			{% endif %}
+		{% endfor %}
 		
 		<title>{{ page.title | prepend: 'Ariadna Ballestar - '}}</title>
 		<meta charset="utf-8" /> 
@@ -91,7 +99,7 @@
 											{{ page.date | date: "%Y" }}
 										</h6>
 									{{ endif }}
-									<p>{{ page.informacion }}</p>
+									<p>{{ page.description }}</p>
 									<!--<p>Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum.</p>-->
 								</section>
 								<p class="copyright">
