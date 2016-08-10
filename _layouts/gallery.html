@@ -19,7 +19,7 @@
 		{% for image in images %}
 			{% capture imagespath %}/{{ page.images }}/{% endcapture %}
 			{% if image.path contains 'images/' and image.path contains imagespath and image.path contains '/portada.jpg'%}
-				<meta property="og:image" content="{{ site.baseurl }}{{ image.path }}" />
+				<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ image.path }}" />
 			{% endif %}
 		{% endfor %}
 		
