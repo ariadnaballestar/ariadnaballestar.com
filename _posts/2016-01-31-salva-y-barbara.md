@@ -15,7 +15,7 @@ images: Salva-y-Barbara
 permalink: /Salva-y-Barbara
 
 # Información detallada sobre la sesión
-informacion: "Salva y Bárbara son una pareja encantadora. Les acompañé una mañana por un parque de Barcelona y, mientras ellos daban un paseo, yo iba fotografiando. El buen día nos acompañó, todo fue muy bonito y fluyó con naturalidad."
+description: "Salva y Bárbara son una pareja encantadora. Les acompañé una mañana por un parque de Barcelona y, mientras ellos daban un paseo, yo iba fotografiando. El buen día nos acompañó, todo fue muy bonito y fluyó con naturalidad."
 
 # Colaboradores
 colaboradores:

@@ -15,7 +15,7 @@ images: Sofia-Book
 permalink: /sofia-book
 
 # Información detallada sobre la sesión
-informacion: "Para la sesión con Sofía nos desplazamos de Barcelona a un pequeño interior de Reus. Allí hicimos las fotos, con música de fondo y entre risas. Fue un día muy divertido en el que aprendimos a sacarle el máximo partido a un foco improvisado el día anterior."
+description: "Para la sesión con Sofía nos desplazamos de Barcelona a un pequeño interior de Reus. Allí hicimos las fotos, con música de fondo y entre risas. Fue un día muy divertido en el que aprendimos a sacarle el máximo partido a un foco improvisado el día anterior."
 
 # Colaboradores
 colaboradores:

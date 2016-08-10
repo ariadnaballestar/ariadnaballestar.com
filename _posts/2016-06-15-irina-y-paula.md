@@ -15,7 +15,7 @@ images: irina-y-paula
 permalink: /irina-y-paula
 
 # Información detallada sobre la sesión
-informacion: "Después de un necesario parón, vuelvo con las pilas cargadas. Irina y Paula son dos chicas encantadoras con las que salimos a dar una vuelta por la ciudad de Barcelona aprovechando que se acercaba el atardecer. Encontramos unas luces preciosas y no nos resistimos a inmortalizarlas. ¡Espero que os gusten las fotos!"
+description: "Después de un necesario parón, vuelvo con las pilas cargadas. Irina y Paula son dos chicas encantadoras con las que salimos a dar una vuelta por la ciudad de Barcelona aprovechando que se acercaba el atardecer. Encontramos unas luces preciosas y no nos resistimos a inmortalizarlas. ¡Espero que os gusten las fotos!"
 
 # Colaboradores
 colaboradores:

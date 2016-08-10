@@ -15,7 +15,7 @@ images: Sesion-boda
 permalink: /sesion-boda
 
 # Información detallada sobre la sesión
-informacion: "En esta sesión es, sin duda, con la que más colaboradores he trabajado a la vez. Como siempre, la mejor maquilladora, Jenni. Dos modelos preciosas que facilitaron mucho el trabajo. Con flores y joyas súper bonitas para adornar unos vestidos que también eran preciosos. "
+description: "En esta sesión es, sin duda, con la que más colaboradores he trabajado a la vez. Como siempre, la mejor maquilladora, Jenni. Dos modelos preciosas que facilitaron mucho el trabajo. Con flores y joyas súper bonitas para adornar unos vestidos que también eran preciosos. "
 
 # Colaboradores
 colaboradores:

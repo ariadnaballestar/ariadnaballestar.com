@@ -15,7 +15,7 @@ images: Paula-Sanchez
 permalink: /paula-sanchez
 
 # Información detallada sobre la sesión
-informacion: "Para esta sesión contamos con la preciosa Paula, una chica encantadora que además de ser guapa por fuera es guapísima por dentro. También vino Jenni, la maquilladora con la que cuento siempre que se da la ocasión y, como estilista nos ayudó Natàlia, que se las ingenió para hacer un ramo precioso para acabar de darle un toque romántico a la sesión."
+description: "Para esta sesión contamos con la preciosa Paula, una chica encantadora que además de ser guapa por fuera es guapísima por dentro. También vino Jenni, la maquilladora con la que cuento siempre que se da la ocasión y, como estilista nos ayudó Natàlia, que se las ingenió para hacer un ramo precioso para acabar de darle un toque romántico a la sesión."
 
 # Colaboradores
 colaboradores:

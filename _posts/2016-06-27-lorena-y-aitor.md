@@ -15,7 +15,7 @@ images: Lorena-y-Aitor
 permalink: /lorena-y-aitor
 
 # Información detallada sobre la sesión
-informacion: "Lorena es una mamá enamorada de su bebé, como a todas las madres, se le cae la baba cuando están juntos. Descubrí una localización muy bonita cerca de Fraga y no quise desaprovechar la oportunidad de ir con ella cuando el sol baja y nos da esas luces naranjas que tanto me gustan."
+description: "Lorena es una mamá enamorada de su bebé, como a todas las madres, se le cae la baba cuando están juntos. Descubrí una localización muy bonita cerca de Fraga y no quise desaprovechar la oportunidad de ir con ella cuando el sol baja y nos da esas luces naranjas que tanto me gustan."
 
 # Colaboradores
 colaboradores:

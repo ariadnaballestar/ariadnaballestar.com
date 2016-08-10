@@ -15,7 +15,7 @@ images: Aharon-y-mica
 permalink: /aharon-y-mica
 
 # Información detallada sobre la sesión
-informacion: "Ésta sesión fue todo un reto, por la localización y por la cantidad de colaboradores que tuvimos. En total participamos siete personas entre fotógrafas, ayudantes, modelos y los propietarios de las tiendas de ropa. Podía parecer en un principio complicado pero, gracias al esfuerzo de todos, salió genial. ¡Espero que os guste!"
+description: "Ésta sesión fue todo un reto, por la localización y por la cantidad de colaboradores que tuvimos. En total participamos siete personas entre fotógrafas, ayudantes, modelos y los propietarios de las tiendas de ropa. Podía parecer en un principio complicado pero, gracias al esfuerzo de todos, salió genial. ¡Espero que os guste!"
 
 # Colaboradores
 colaboradores:
