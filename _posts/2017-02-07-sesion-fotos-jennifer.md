@@ -23,6 +23,6 @@ colaboradores:
    link: "https://www.instagram.com/jfmakeupartist/"
 
 
-# Texto que se insertara en la etiqueta tag de todas las imagenes de la sesión.
+# Texto que se insertara en la etiqueta tag de todas las imagenes de la sesión
 altimages: "Sesion de fotos profesional, individual y personal en Barcelona con la maquilladora y modelo Jennifer Fernández. Fotografías de la fotografa profesional Ariadna Ballestar."
 ---
