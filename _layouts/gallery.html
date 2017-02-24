@@ -53,16 +53,13 @@
 				<!-- Main -->
 					<div id="main">
 						{% assign images = site.static_files | sort: 'path' %}
-						{% for image in images %}
-							{% capture imagespath %}/{{ page.images }}/{% endcapture %}
-							{% if image.path contains 'images/' and image.path contains imagespath and image.path contains 'thumbs/'%}
+						{% for image in images %}{% capture imagespath %}/{{ page.images }}/{% endcapture %}{% if image.path contains 'images/' and image.path contains imagespath and image.path contains 'thumbs/'%}
 							<article class="thumb">
 								<a href="{{ site.baseurl }}{{ image.path | replace_first:'thumbs','fulls'}}" class="image" alt="test 2 alt"><img src="{{ site.baseurl }}{{ image.path }}" alt="test alt" /></a>
 								<h2></h2>
 								<p></p>
 							</article>
-							{% endif %}
-						{% endfor %}
+						{% endif %}{% endfor %}
 						<!--
 						<article class="thumb">
 							<a href="images/fulls/02.jpg" class="image"><img src="images/thumbs/02.jpg" alt="" /></a>
