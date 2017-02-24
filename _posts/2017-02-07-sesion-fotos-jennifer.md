@@ -13,7 +13,7 @@ images: Jenni
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
 permalink: /sesion-fotos-jennifer
 
-# Texto que se insertara en la etiqueta tag de todas las imagenes de la sesión
+# Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "Sesion de fotos profesional, individual y personal en Barcelona con la maquilladora y modelo Jennifer Fernández. Fotografías de la fotografa profesional Ariadna Ballestar."
 
 # Información detallada sobre la sesión
