@@ -52,7 +52,7 @@
 						{% assign images = site.static_files | sort: 'path' %}
 						{% for image in images %}{% capture imagespath %}/{{ page.images }}/{% endcapture %}{% if image.path contains 'images/' and image.path contains imagespath and image.path contains 'thumbs/'%}
 							<article class="thumb">
-								<a href="{{ site.baseurl }}{{ image.path | replace_first:'thumbs','fulls'}}" class="image"><img src="{{ site.baseurl }}{{ image.path }}" alt="test" /></a>
+								<a href="{{ site.baseurl }}{{ image.path | replace_first:'thumbs','fulls'}}" class="image"><img src="{{ site.baseurl }}{{ image.path }}" {% if page.altimages %} alt="test" { % endif % } /></a>
 								<h2></h2>
 								<p></p>
 							</article>
