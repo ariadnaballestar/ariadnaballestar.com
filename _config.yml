@@ -10,10 +10,10 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: Ariadna Ballestar Fotografía - Sesiones
+title: Ariadna Ballestar Fotografía - Sesiones de fotografía en Barcelona
 
 description: > # this means to ignore newlines until "baseurl:"
-  Página personal de Ariadna Ballestar. Aquí podrás ver todos mis trabajos como fotógrafa.
+  Ariadna Ballestar Fotografía - Sesiones de fotografía en Barcelona
 url: "https://ariadnaballestar.com" # the base hostname & protocol for your site
 facebook:
   publisher: https://www.facebook.com/ari.ballestar
