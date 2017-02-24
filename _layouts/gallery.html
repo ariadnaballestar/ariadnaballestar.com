@@ -16,12 +16,9 @@
 		{% seo %}
 
 		{% assign images = site.static_files | sort: 'path' %}
-		{% for image in images %}
-			{% capture imagespath %}/{{ page.images }}/{% endcapture %}
-			{% if image.path contains 'images/' and image.path contains imagespath and image.path contains '/portada.jpg'%}
+		{% for image in images %}{% capture imagespath %}/{{ page.images }}/{% endcapture %}{% if image.path contains 'images/' and image.path contains imagespath and image.path contains '/portada.jpg'%}
 				<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ image.path }}" />
-			{% endif %}
-		{% endfor %}
+		{% endif %}{% endfor %}
 		
 		<title>{{ page.title | prepend: 'Ariadna Ballestar - '}}</title>
 		<meta charset="utf-8" /> 
