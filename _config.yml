@@ -10,10 +10,10 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: Ariadna Ballestar Fotografía - Sesiones de fotografía en Barcelona
+title: Ariadna Ballestar Fotografía · Sesiones de fotografía en Barcelona
 
 description: > # this means to ignore newlines until "baseurl:"
-  Ariadna Ballestar Fotografía - Sesiones de fotografía en Barcelona
+  Encuentra las mejores sesiones de fotografía realizadas en Barcelona por la fotografa profesional, de Fraga, Ariadna Ballestar.
 url: "https://ariadnaballestar.com" # the base hostname & protocol for your site
 facebook:
   publisher: https://www.facebook.com/ari.ballestar
