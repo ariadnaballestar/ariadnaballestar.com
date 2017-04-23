@@ -14,7 +14,7 @@ images: aniversari-francesc
 permalink: /sesion-de-fotos-cumpleaños-francesc
 
 # Información detallada sobre la sesión
-description: "El cumpleaños de Francesc es un día muy especial, el 29 de Febrero y, unos días después quiso celebrar su 25 cumpleaños acompañado de toda su familia y amigos. Francesc es un apasionado de la música clásica, ama tocar, escuchar y componer buenas melodías así que... ¿qué mejor manera para celebrar su cumpleaños que organizar un recital de piano en Barcelona?"
+description: "El cumpleaños de Francesc es un día muy especial, el 29 de Febrero y, unos días después quiso celebrar su 21,25 cumpleaños acompañado de toda su familia y amigos. Francesc es un apasionado de la música clásica, ama tocar, escuchar y componer buenas melodías así que... ¿qué mejor manera para celebrar su cumpleaños que organizar un recital de piano en Barcelona?"
 
 # Colaboradores
 colaboradores:
