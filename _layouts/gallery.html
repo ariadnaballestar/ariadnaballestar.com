@@ -49,6 +49,31 @@
 
 				<!-- Main -->
 					<div id="main">
+						<article class="information">
+							<h2>{{ page.title }}</h2>
+							{{ if page.date }}
+								<h6>
+									{% assign m = page.date | date: "%-m" %}
+									{{ page.date | date: "%-d" }} de
+									{% case m %}
+									  {% when '1' %}enero
+									  {% when '2' %}febrero
+									  {% when '3' %}marzo
+									  {% when '4' %}abril
+									  {% when '5' %}mayo
+									  {% when '6' %}junio
+									  {% when '7' %}julio
+									  {% when '8' %}agosto
+									  {% when '9' %}septiembre
+									  {% when '10' %}octubre
+									  {% when '11' %}noviembre
+									  {% when '12' %}diciembre
+									{% endcase %} del 
+									{{ page.date | date: "%Y" }}
+								</h6>
+							{{ endif }}
+							<p>{{ page.description }}</p>
+						</article>
 						{% assign images = site.static_files | sort: 'path' %}
 						{% for image in images %}{% capture imagespath %}/{{ page.images }}/{% endcapture %}{% if image.path contains 'images/' and image.path contains imagespath and image.path contains 'thumbs/'%}
 							<article class="thumb">
