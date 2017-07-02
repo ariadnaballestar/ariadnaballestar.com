@@ -29,7 +29,7 @@ baseurl: "/sesiones" # the subpath of your site, e.g. /blog
 
 email: info@ariadnaballestar.com
 
-locale: es_ES
+lang: es_ES
 
 # Build settings
 markdown: kramdown
