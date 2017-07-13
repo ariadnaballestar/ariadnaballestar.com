@@ -21,4 +21,7 @@ colaboradores:
  - title: "Modista y modelo:"
    name: "Alba Calucho, Quatre Puntaes"
    link: "https://www.facebook.com/quatrepunt/"
+
+# Para jekyll-seo-tag
+image: /images/alba-calucho/portada.jpg
 ---

@@ -20,4 +20,7 @@ description: "El cumpleaños de Francesc es un día muy especial, el 29 de Febre
 colaboradores:
  - title: "Familia y amigos de"
    name: "Francesc Busquets"
+
+# Para jekyll-seo-tag
+image: /images/aniversari-francesc/portada.jpg
 ---

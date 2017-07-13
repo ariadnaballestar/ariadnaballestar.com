@@ -21,4 +21,7 @@ colaboradores:
  - title: "Modelo:"
    name: "Neus"
    link: "https://www.facebook.com/Neria-Phoenix-1784161471867190/?fref=ts"
+
+# Para jekyll-seo-tag
+image: /images/neus-flotando/portada.jpg
 ---

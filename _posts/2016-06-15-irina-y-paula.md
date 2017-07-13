@@ -25,4 +25,7 @@ colaboradores:
  - title: "Modelo:"
    name: "Paula"
    link: "https://www.facebook.com/paulapatata/?ref=ts&fref=ts"
+
+# Para jekyll-seo-tag
+image: /images/irina-y-paula/portada.jpg
 ---

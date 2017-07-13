@@ -21,4 +21,7 @@ colaboradores:
  - title: "Modelo: "
    name: "Neus Serra"
    link: "https://www.facebook.com/Neus-W-Photo-714377851919623/?pnref=lhc"
+
+# Para jekyll-seo-tag
+image: /images/Neus3/portada.jpg
 ---

@@ -39,4 +39,7 @@ colaboradores:
    link: "https://www.facebook.com/RoyalCouture/"
  - title: "Estilista:"
    name: "Daniel Vallet Galera"
+
+# Para jekyll-seo-tag
+image: /images/Sesion-boda/portada.jpg
 ---

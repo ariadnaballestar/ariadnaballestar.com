@@ -21,4 +21,7 @@ colaboradores:
  - title: "Modelo"
    name: "Meritxell"
    link: "https://www.facebook.com/txelleliot?fref=ts"
+
+# Para jekyll-seo-tag
+image: /images/meritxell/portada.jpg
 ---

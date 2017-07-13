@@ -24,4 +24,7 @@ colaboradores:
  - title: "Modelo y maquilladora"
    name: "Jennifer Fernández"
    link: "https://www.instagram.com/jfmakeupartist/"
+
+# Para jekyll-seo-tag
+image: /images/Jenni/portada.jpg
 ---

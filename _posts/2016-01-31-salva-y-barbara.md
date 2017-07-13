@@ -21,4 +21,7 @@ description: "Salva y Bárbara son una pareja encantadora. Les acompañé una ma
 colaboradores:
  - title: "Pareja:"
    name: "Salva y Bárbara"
+
+# Para jekyll-seo-tag
+image: /images/Salva-y-Barbara/portada.jpg
 ---

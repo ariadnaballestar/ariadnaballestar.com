@@ -21,4 +21,7 @@ colaboradores:
  - title: "Modelo:"
    name: "Antonio"
    link: "https://www.instagram.com/frederichoms3/"
+
+# Para jekyll-seo-tag
+image: /images/antonio-jose/portada.jpg
 ---

@@ -25,4 +25,7 @@ colaboradores:
  - title: "Maquilladora:"
    name: "Jennifer Fernández"
    link: "http://www.makeupjennifer.com/"
+
+# Para jekyll-seo-tag
+image: /images/Paula-Dorado/portada.jpg
 ---

@@ -24,4 +24,7 @@ colaboradores:
    link: "https://www.facebook.com/lpavonmateo?fref=ts"
  - title: "Bebé:"
    name: "Aitor"
+
+# Para jekyll-seo-tag
+image: /images/Lorena-y-Aitor/portada.jpg
 ---

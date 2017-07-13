@@ -24,4 +24,7 @@ colaboradores:
  - title: "Ella:"
    name: "Gina"
    link: "https://www.instagram.com/ginna.blanch3/"
+
+# Para jekyll-seo-tag
+image: /images/gina-edgard/portada.jpg
 ---

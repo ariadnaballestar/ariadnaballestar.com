@@ -28,4 +28,7 @@ colaboradores:
  - title: "Estilista:"
    name: "Natàlia López"
    link: "https://www.facebook.com/natalia.lopez.92123?fref=pb&hc_location=friends_tab&pnref=friends.mutual"
+
+# Para jekyll-seo-tag
+image: /images/Paula-Sanchez/portada.jpg
 ---

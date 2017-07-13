@@ -27,4 +27,7 @@ colaboradores:
  - title: "Localización:"
    name: "Hotel Banys Orientals"
    link: "http://www.hotelbanysorientals.com/"
+
+# Para jekyll-seo-tag
+image: /images/Auxi-piedra/portada.jpg
 ---

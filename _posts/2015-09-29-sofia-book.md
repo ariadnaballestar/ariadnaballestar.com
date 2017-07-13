@@ -22,4 +22,7 @@ colaboradores:
  - title: "Modelo:"
    name: "Sofía"
    link: "https://www.instagram.com/sofii_blogg/"
+
+# Para jekyll-seo-tag
+image: /images/Sofia-Book/portada.jpg
 ---

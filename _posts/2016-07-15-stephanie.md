@@ -21,5 +21,7 @@ description: "Con Stephanie fuimos a una localización desconocida para mí hast
 colaboradores:
  - title: "Modelo:"
    name: "Stephanie"
-   link: "https://www.instagram.com/stephaniegille_/"
+
+# Para jekyll-seo-tag
+image: /images/Stephanie/portada.jpg
 ---

@@ -20,4 +20,7 @@ description: "Mónica y su pareja decidieron contar conmigo para inmortalizar lo
 colaboradores:
  - title: "Premamá:"
    name: "Mónica"
+
+# Para jekyll-seo-tag
+image: /images/Monica-embarazo/portada.jpg
 ---

@@ -21,5 +21,7 @@ description: "Con Sonia hicimos una mini sesión por las calles de Fraga. En lug
 colaboradores:
  - title: "Modelo:"
    name: "Sonia Navarro"
-   link: "https://gmail.com"
+
+# Para jekyll-seo-tag
+image: /images/Sonia-vecina/portada.jpg
 ---

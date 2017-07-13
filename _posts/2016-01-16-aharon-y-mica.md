@@ -31,4 +31,7 @@ colaboradores:
  - title: "Moda ella:"
    name: "A&J Moda"
    link: "https://www.facebook.com/AJmodafraga/?fref=ts"
+
+# Para jekyll-seo-tag
+image: /images/Aharon-y-mica/portada.jpg
 ---
