@@ -27,4 +27,7 @@ colaboradores:
  - title: "Chica:"
    name: "Irina"
    link: "https://www.facebook.com/irina.ballestarmateo"
+
+# Para jekyll-seo-tag
+image: /images/adriana-irina/portada.jpg
 ---
