@@ -72,7 +72,7 @@
 						{% if page.flickrimages %}
 							{% for image in page.flickrimages %}
 								<article class="thumb">
-								<a href="{{ image | replace_first:'.jpg','_c.jpg'}}" class="image"><img src="{{{ image | replace_first:'.jpg','_n.jpg'}}" alt={% if page.altimages %} "{{ page.altimages }}" {% else %} "{{ page.title }}" {% endif %} /></a>
+								<a href="{{ image | replace_first:'.jpg','_c.jpg'}}" class="image"><img src="{{ image | replace_first:'.jpg','_n.jpg'}}" alt={% if page.altimages %} "{{ page.altimages }}" {% else %} "{{ page.title }}" {% endif %} /></a>
 									<h2></h2>
 									<p></p>
 								</article>
