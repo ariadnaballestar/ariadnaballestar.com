@@ -1,10 +1,17 @@
 ---
 tag: parejas
-permalink: "/book-parejas"
-title: "Book parejas"
+permalink: /book-parejas
+title: Book parejas
+published: true
 ---
-Descripción detallada sobre el book parejas
+## ¡Hola!
+¿Quieres un Book en pareja?
 
-con distinas lineas
+¡Estás en el lugar ideal!
 
-y **negrita** por *ejemplo*
+## ¿Para quién está pensado este book?
+Este book está pensado para dos personas, sea cual sea la relación que los una. Pueden ser pareja, amigos, familiares o simplemente dos personas que quieran hacerse fotos juntas.
+
+
+## Además...
+Disfruta de una experiencia única, diferente y original. **Para ti**, con quien tú quieras, o **para regalar**. Es un detalle precioso con el que seguro que siempre aciertas. 
