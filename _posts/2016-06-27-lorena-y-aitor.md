@@ -2,10 +2,13 @@
 # No tocar
 layout: gallery
 
+# Categoria
+categories: [familiar, parejas]
+
 # Título en la página /sesiones
 title:  "Lorena y Aitor"
 
-# Subtítulo junto al título 
+# Subtítulo junto al título
 info: "Subtítulo sesion"
 
 # Carpeta donde buscará las imágenes en /images/. Debe tener el mismo nombre y sin espacios

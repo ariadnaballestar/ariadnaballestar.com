@@ -4,6 +4,9 @@
 # No tocar
 layout: gallery
 
+# Categoria
+category: familia
+
 # Título en la página /sesiones
 title: "Aitor, Lorena y Sergio"
 

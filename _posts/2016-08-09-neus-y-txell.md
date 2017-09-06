@@ -4,6 +4,9 @@
 # No tocar
 layout: gallery
 
+# Categoria
+category: parejas
+
 # Título en la página /sesiones
 title: "Neus y Txell"
 

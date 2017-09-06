@@ -4,6 +4,9 @@
 # No tocar
 layout: gallery
 
+# Categoria
+category: personal
+
 # Título en la página /sesiones
 title: "Mari Vaz"
 
@@ -47,3 +50,6 @@ flickrimages:
  - https://farm5.staticflickr.com/4377/36540654380_5ecee32393.jpg
  - https://farm5.staticflickr.com/4408/36936742165_3de4e4f773.jpg
 ---
+**Mari** ya es habitual en mis sesiones. Es un lujo trabajar con ella, cuida todos los detalles y complementos, siempre viene preparada y, sus poses nunca me dejan indiferente. Es una modelo profesional en toda regla.  Esa tarde, decidimos ir al Tibidabo, un lugar precioso de Barcelona, pero, para nuestra desgracia estaba saturadísimo de gente y apenas había un hueco donde hacer fotos así que decidimos irnos y hacer las sesion por los alrededores. Preparamos un par de conjuntos y nos pusimos a ello. Mientras hacíamos las fotos, tuvimos una compañía muy inesperada... ¡¡Dos jabalís decidieron pasear a nuestro alrededor!! Qué susto nos dieron jajajaja
+
+Sin más, os dejo que disfrutéis de las fotos. Espero que os gusten.

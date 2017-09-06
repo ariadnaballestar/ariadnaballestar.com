@@ -164,6 +164,18 @@
 		// Header.
 			var $header = $('#header');
 
+			// Custom Volver
+				$header.find('.volver').each(function () {
+					var $this = $(this);
+
+					// Referer from the same domain
+					if (document.referrer.indexOf(location.protocol + "//" + location.host) === 0) {
+						$this.attr("href", document.referrer);
+					} else {
+						$this.attr("href", "./");
+					};
+				})
+
 			// Links.
 				$header.find('a').each(function() {
 

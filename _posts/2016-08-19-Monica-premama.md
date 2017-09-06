@@ -4,6 +4,9 @@
 # No tocar
 layout: gallery
 
+# Categoria
+categories: [parejas, familiar]
+
 # Título en la página /sesiones
 title: "Mónica"
 

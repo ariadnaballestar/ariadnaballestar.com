@@ -17,7 +17,7 @@
 
 		<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/{{ page.images }}/portada.jpg" />
 
-		<meta charset="utf-8" /> 
+		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
 		<!--[if lte IE 8]><script src={{ "/galleryassets/js/ie/html5shiv.js" | prepend: site.baseurl }} ></script><![endif]-->
@@ -63,11 +63,17 @@
 									  {% when '10' %}octubre
 									  {% when '11' %}noviembre
 									  {% when '12' %}diciembre
-									{% endcase %} del 
+									{% endcase %} del
 									{{ page.date | date: "%Y" }}
 								</h6>
 							{% endif %}
-							<p>{{ page.description }}</p>
+							{% assign stripedContent = page.content | strip %}
+							{% if stripedContent != blank %}
+								{{ page.content }}
+							{% else %}
+								<p>{{ page.description }}</p>
+							{% endif %}
+
 						</article>
 						{% if page.flickrimages %}
 							{% for image in page.flickrimages %}
@@ -120,7 +126,7 @@
 											  {% when '10' %}octubre
 											  {% when '11' %}noviembre
 											  {% when '12' %}diciembre
-											{% endcase %} del 
+											{% endcase %} del
 											{{ page.date | date: "%Y" }}
 										</h6>
 									{% endif %}

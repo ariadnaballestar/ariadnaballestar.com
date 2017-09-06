@@ -19,7 +19,7 @@ facebook:
   publisher: https://www.facebook.com/ari.ballestar
 author: "Ariadna Ballestar"
 logo: https://ariadnaballestar.com/assets/logos/logo-negro.png
-social: 
+social:
   name: Ariadna Ballestar Fotografía
   links:
     - https://www.instagram.com/ariadna_ballestar/
@@ -33,3 +33,15 @@ lang: es_ES
 
 # Build settings
 markdown: kramdown
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
