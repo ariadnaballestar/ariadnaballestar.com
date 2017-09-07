@@ -130,7 +130,12 @@
 											{{ page.date | date: "%Y" }}
 										</h6>
 									{% endif %}
-									<p>{{ page.description }}</p>
+									{% assign stripedContent = page.content | strip %}
+									{% if stripedContent != "" %}
+										{{ page.content }}
+									{% else %}
+										<p>{{ page.description }}</p>
+									{% endif %}
 								</section>
 								<p class="copyright">
 									&copy; Ariadna Ballestar | Todos los derechos reservados
