@@ -68,7 +68,7 @@
 								</h6>
 							{% endif %}
 							{% assign stripedContent = page.content | strip %}
-							{% if stripedContent != blank %}
+							{% if stripedContent != "" %}
 								{{ page.content }}
 							{% else %}
 								<p>{{ page.description }}</p>
