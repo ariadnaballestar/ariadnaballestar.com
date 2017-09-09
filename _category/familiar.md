@@ -1,4 +1,5 @@
 ---
+layout: category
 tag: familiar
 permalink: /book-familiar
 title: Book familiar

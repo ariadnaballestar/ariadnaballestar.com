@@ -1,4 +1,5 @@
 ---
+layout: category
 tag: parejas
 permalink: /book-parejas
 title: Book parejas
@@ -14,4 +15,4 @@ Este book está pensado para dos personas, sea cual sea la relación que los una
 
 
 ## Además...
-Disfruta de una experiencia única, diferente y original. **Para ti**, con quien tú quieras, o **para regalar**. Es un detalle precioso con el que seguro que siempre aciertas. 
+Disfruta de una experiencia única, diferente y original. **Para ti**, con quien tú quieras, o **para regalar**. Es un detalle precioso con el que seguro que siempre aciertas.

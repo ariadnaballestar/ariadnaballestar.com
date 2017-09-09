@@ -1,4 +1,5 @@
 ---
+layout: category
 tag: personal
 permalink: /book-personal
 title: Book personal
