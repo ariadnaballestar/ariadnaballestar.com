@@ -82,7 +82,7 @@
 													{% for photo in photoset.photos %}
 														{% if photo.tags contains 'portada' %}
 															{% for size in photo.sizes %}
-																{% if size.label == 'Medium' %}
+																{% if size.label == 'Small 320' %}
 																	<img src="{{ size.url }}" alt="{{ post.title }}" />
 																	{% break %}
 																{% endif %}
