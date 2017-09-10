@@ -86,7 +86,7 @@
 								{% for image in photoset.photos %}
 									{% unless image.tags contains 'portada' %}
 										{% for size in image.sizes %}
-											{% if size.label == 'Small 320' %}
+											{% if size.label == 'Medium' %}
 												{% assign thumbImage = size.url %}
 											{% endif %}
 											{% if size.label == 'Medium 800' %}
