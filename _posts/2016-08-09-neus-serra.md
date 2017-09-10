@@ -27,4 +27,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Neus3/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157685818935770
 ---

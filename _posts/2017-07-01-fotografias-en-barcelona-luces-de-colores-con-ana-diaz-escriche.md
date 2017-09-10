@@ -29,6 +29,7 @@ colaboradores:
    link: "https://www.instagram.com/adescriche/"
 
 # Imagenes de flickr
+flickralbum: 72157687081697846
 flickrimages:
  - https://farm5.staticflickr.com/4407/35563705113_b47ea05026.jpg
  - https://farm5.staticflickr.com/4360/35975182700_95ba153311.jpg

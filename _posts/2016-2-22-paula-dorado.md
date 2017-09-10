@@ -8,9 +8,6 @@ category: personal
 # Título en la página /sesiones
 title:  "Golden Paula"
 
-# Subtítulo junto al título
-info: "Subtítulo sesion"
-
 # Carpeta donde buscará las imágenes en /images/. Debe tener el mismo nombre y sin espacios
 images: Paula-Dorado
 
@@ -31,4 +28,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Paula-Dorado/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157686112732533
 ---

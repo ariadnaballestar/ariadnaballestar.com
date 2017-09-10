@@ -27,4 +27,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/meritxell/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157686135119913
 ---

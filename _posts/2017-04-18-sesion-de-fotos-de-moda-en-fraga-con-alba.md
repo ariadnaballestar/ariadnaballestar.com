@@ -27,4 +27,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/alba-calucho/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157686257129893
 ---

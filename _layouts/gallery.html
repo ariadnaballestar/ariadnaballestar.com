@@ -75,24 +75,53 @@
 							{% endif %}
 
 						</article>
-						{% if page.flickrimages %}
-							{% for image in page.flickrimages %}
-								<article class="thumb">
-								<a href="{{ image | replace_first:'.jpg','_c.jpg'}}" class="image"><img src="{{ image }}" alt={% if page.altimages %} "{{ page.altimages }}" {% else %} "{{ page.title }}" {% endif %} /></a>
-									<h2></h2>
-									<p></p>
-								</article>
-							{% endfor %}
+						{% if page.flickralbum %}
+							{% assign flickralbum = page.flickralbum | downcase %}
+							{% comment %}
+								downcase used to make sure that flickralbum is a string
+							{% endcomment %}
+							{% if site.data.photosets[flickralbum] %}
+								{% assign photoset = site.data.photosets[flickralbum] %}
+
+								{% for image in photoset.photos %}
+									{% unless image.tags contains 'portada' %}
+										{% for size in image.sizes %}
+											{% if size.label == 'Small 320' %}
+												{% assign thumbImage = size.url %}
+											{% endif %}
+											{% if size.label == 'Medium 800' %}
+												{% assign bigImage = size.url %}
+											{% endif %}
+										{% endfor %}
+										<article class="thumb">
+										<a href="{{ bigImage }}" class="image"><img src="{{ thumbImage }}" alt={% if page.altimages %} "{{ page.altimages }}" {% else %} "{{ page.title }}" {% endif %} /></a>
+											<h2></h2>
+											<p></p>
+										</article>
+									{% endunless %}
+								{% endfor %}
+							{% endif %}
 						{% else %}
 
-							{% assign images = site.static_files | sort: 'path' %}
-							{% for image in images %}{% capture imagespath %}/{{ page.images }}/{% endcapture %}{% if image.path contains 'images/' and image.path contains imagespath and image.path contains 'thumbs/'%}
-								<article class="thumb">
-									<a href="{{ site.baseurl }}{{ image.path | replace_first:'thumbs','fulls'}}" class="image"><img src="{{ site.baseurl }}{{ image.path }}" alt={% if page.altimages %} "{{ page.altimages }}" {% else %} "{{ page.title }}" {% endif %} /></a>
-									<h2></h2>
-									<p></p>
-								</article>
-							{% endif %}{% endfor %}
+							{% if page.flickrimages %}
+								{% for image in page.flickrimages %}
+									<article class="thumb">
+									<a href="{{ image | replace_first:'.jpg','_c.jpg'}}" class="image"><img src="{{ image }}" alt={% if page.altimages %} "{{ page.altimages }}" {% else %} "{{ page.title }}" {% endif %} /></a>
+										<h2></h2>
+										<p></p>
+									</article>
+								{% endfor %}
+							{% else %}
+
+								{% assign images = site.static_files | sort: 'path' %}
+								{% for image in images %}{% capture imagespath %}/{{ page.images }}/{% endcapture %}{% if image.path contains 'images/' and image.path contains imagespath and image.path contains 'thumbs/'%}
+									<article class="thumb">
+										<a href="{{ site.baseurl }}{{ image.path | replace_first:'thumbs','fulls'}}" class="image"><img src="{{ site.baseurl }}{{ image.path }}" alt={% if page.altimages %} "{{ page.altimages }}" {% else %} "{{ page.title }}" {% endif %} /></a>
+										<h2></h2>
+										<p></p>
+									</article>
+								{% endif %}{% endfor %}
+							{% endif %}
 						{% endif %}
 						<!--
 						<article class="thumb">

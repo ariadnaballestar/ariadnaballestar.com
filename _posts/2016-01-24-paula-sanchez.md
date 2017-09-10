@@ -8,9 +8,6 @@ category: personal
 # Título en la página /sesiones
 title:  "Paula Sánchez"
 
-# Subtítulo junto al título
-info: "Subtítulo sesion"
-
 # Carpeta donde buscará las imágenes en /images/. Debe tener el mismo nombre y sin espacios
 images: Paula-Sanchez
 
@@ -34,4 +31,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Paula-Sanchez/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157684795648192
 ---

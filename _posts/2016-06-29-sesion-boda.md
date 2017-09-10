@@ -8,9 +8,6 @@ category: parejas
 # Título en la página /sesiones
 title:  "Catherine y Aida"
 
-# Subtítulo junto al título
-info: "Subtítulo sesion"
-
 # Carpeta donde buscará las imágenes en /images/. Debe tener el mismo nombre y sin espacios
 images: Sesion-boda
 
@@ -45,4 +42,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Sesion-boda/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157688062911266
 ---

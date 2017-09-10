@@ -8,9 +8,6 @@ categories: [familiar, parejas]
 # Título en la página /sesiones
 title:  "Lorena y Aitor"
 
-# Subtítulo junto al título
-info: "Subtítulo sesion"
-
 # Carpeta donde buscará las imágenes en /images/. Debe tener el mismo nombre y sin espacios
 images: Lorena-y-Aitor
 
@@ -30,4 +27,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Lorena-y-Aitor/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157686042981314
 ---

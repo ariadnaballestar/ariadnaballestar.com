@@ -32,6 +32,7 @@ colaboradores:
    name: "Sergio"
 
 # Imagenes de flickr
+flickralbum: 72157683721523172
 flickrimages:
  - https://farm5.staticflickr.com/4299/36212708831_2cf9a3ab02.jpg
  - https://farm5.staticflickr.com/4439/36180508972_eaa1b65cfc.jpg

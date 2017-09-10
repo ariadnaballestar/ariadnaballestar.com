@@ -8,9 +8,6 @@ category: personal
 # Título en la página /sesiones
 title:  "Stephanie"
 
-# Subtítulo junto al título
-info: "Subtítulo sesion"
-
 # Carpeta donde buscará las imágenes en /images/. Debe tener el mismo nombre y sin espacios
 images: Stephanie
 
@@ -27,4 +24,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Stephanie/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157685569514821
 ---

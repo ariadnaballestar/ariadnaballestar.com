@@ -8,9 +8,6 @@ category: personal
 # Título en la página /sesiones
 title:  "Sonia"
 
-# Subtítulo junto al título
-info: "Subtítulo sesion"
-
 # Carpeta donde buscará las imágenes en /images/. Debe tener el mismo nombre y sin espacios
 images: Sonia-vecina
 
@@ -27,4 +24,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Sonia-vecina/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157686014266254
 ---

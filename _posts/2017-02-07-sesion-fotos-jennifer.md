@@ -30,4 +30,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Jenni/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157688638178875
 ---

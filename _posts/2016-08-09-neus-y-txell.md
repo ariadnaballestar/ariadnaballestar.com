@@ -30,4 +30,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Neus-y-Txell/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157685569538241
 ---

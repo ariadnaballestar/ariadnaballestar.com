@@ -26,4 +26,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Monica-embarazo/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157684811517342
 ---

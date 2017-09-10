@@ -8,9 +8,6 @@ category: parejas
 # Título en la página /sesiones
 title:  "Salva y Bárbara"
 
-# Subtítulo junto al título
-info: "Subtítulo sesion"
-
 # Carpeta donde buscará las imágenes en /images/. Debe tener el mismo nombre y sin espacios
 images: Salva-y-Barbara
 
@@ -27,4 +24,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Salva-y-Barbara/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157688495396055
 ---

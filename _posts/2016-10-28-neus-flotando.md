@@ -27,4 +27,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/neus-flotando/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157686164958794
 ---

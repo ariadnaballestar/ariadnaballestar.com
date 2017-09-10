@@ -27,4 +27,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/antonio-jose/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157686165120144
 ---

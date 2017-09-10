@@ -33,4 +33,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Auxi-piedra/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157688638072875
 ---

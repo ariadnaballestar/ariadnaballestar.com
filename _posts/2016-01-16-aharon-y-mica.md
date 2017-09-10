@@ -8,9 +8,6 @@ category: parejas
 # Título en la página /sesiones
 title:  "Aharon y Mica"
 
-# Subtítulo junto al título
-info: "Subtítulo sesion"
-
 # Carpeta donde buscará las imágenes en /images/. Debe tener el mismo nombre y sin espacios
 images: Aharon-y-mica
 
@@ -37,4 +34,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/Aharon-y-mica/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157685798805600
 ---

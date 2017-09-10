@@ -26,4 +26,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/aniversari-francesc/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157688638191425
 ---

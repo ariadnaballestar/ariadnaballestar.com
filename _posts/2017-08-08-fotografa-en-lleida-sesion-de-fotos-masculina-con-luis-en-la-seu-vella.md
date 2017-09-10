@@ -29,6 +29,7 @@ colaboradores:
    link: "https://www.instagram.com/luis23mzn/"
 
 # Imagenes de flickr
+flickralbum: 72157687843391865
 flickrimages:
  - https://farm5.staticflickr.com/4422/35877082563_a802265aac.jpg
  - https://farm5.staticflickr.com/4356/35851879824_2625478a6b.jpg

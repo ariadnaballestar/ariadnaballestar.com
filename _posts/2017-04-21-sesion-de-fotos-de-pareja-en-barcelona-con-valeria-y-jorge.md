@@ -32,6 +32,7 @@ colaboradores:
    link: "https://www.instagram.com/predescartiano/"
 
 # Imagenes de flickr
+flickralbum: 72157684324883890
 flickrimages:
  - https://farm5.staticflickr.com/4321/36090023955_ed074f3923.jpg
  - https://farm5.staticflickr.com/4316/35956870111_8361711f9b.jpg

@@ -30,4 +30,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/gina-edgard/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157688638102215
 ---

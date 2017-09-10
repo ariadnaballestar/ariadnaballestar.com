@@ -33,4 +33,7 @@ colaboradores:
 
 # Para jekyll-seo-tag
 image: /images/adriana-irina/portada.jpg
+
+# Imagenes de flickr
+flickralbum: 72157684811531002
 ---
