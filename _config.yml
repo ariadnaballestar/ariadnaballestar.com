@@ -1,5 +1,6 @@
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 url: https://ariadnaballestar.com
 baseurl: ""
@@ -11,9 +12,9 @@ description: Fotógrafa profesional en Barcelona y Fraga. Fotografía de pareja,
 
 author: Ariadna Ballestar
 
-logo: assets/logos/logo-negro.png
+logo: /assets/landed/logos/logo-negro.png
 
-social: 
+social:
   name: Ariadna Ballestar Fotografía
   links:
     - https://www.instagram.com/ariadna_ballestar/
@@ -24,10 +25,17 @@ facebook:
 
 email: info@ariadnaballestar.com
 
-
 lang: es_ES
 
+
 markdown: kramdown
+
+kramdown:
+  auto_ids: false
+
+collections:
+  category:
+    output: true
 
 webmaster_verifications:
   google: wCAUJatFeERGPOT1QzbB82H1bwA1cZUN31DXSsm4vPE

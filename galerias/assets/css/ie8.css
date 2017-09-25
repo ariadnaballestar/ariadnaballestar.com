@@ -21,7 +21,7 @@
 	form select,
 	form textarea {
 		position: relative;
-		-ms-behavior: url("assets/js/ie/PIE.htc");
+		-ms-behavior: url("/assets/landed/js/ie/PIE.htc");
 		border: solid 1px #ccc;
 	}
 
@@ -33,7 +33,7 @@
 	.button,
 	button {
 		position: relative;
-		-ms-behavior: url("assets/js/ie/PIE.htc");
+		-ms-behavior: url("/assets/landed/js/ie/PIE.htc");
 	}
 
 		input[type="button"].down,
@@ -47,7 +47,7 @@
 /* Intro */
 
 	#intro {
-		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
+		-ms-behavior: url("/assets/landed/js/ie/backgroundsize.min.htc");
 		background: url("../../images/intro.jpg");
 		background-size: cover;
 	}
@@ -70,7 +70,7 @@
 /* One */
 
 	#one {
-		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
+		-ms-behavior: url("/assets/landed/js/ie/backgroundsize.min.htc");
 		background: url("../../images/one.jpg");
 		background-size: cover;
 	}
@@ -93,7 +93,7 @@
 /* Two */
 
 	#two {
-		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
+		-ms-behavior: url("/assets/landed/js/ie/backgroundsize.min.htc");
 		background: url("../../images/two.jpg");
 		background-size: cover;
 	}
