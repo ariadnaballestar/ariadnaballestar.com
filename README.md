@@ -1,2 +1,2 @@
-# sesiones
-Web de Ariadna Ballestar sección sesiones
+# ariadnaballestar.com
+Web de Ariadna Ballestar fotografía
