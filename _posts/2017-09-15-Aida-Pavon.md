@@ -11,7 +11,7 @@ categories: personal
 title: "Aida"
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /Aida-Pavon
+permalink: /sesiones/Aida-Pavon
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "fotografa en fraga, sesion de fotos, fotografa en barcelona, fotografia nocturna, fotografa de moda"

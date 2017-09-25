@@ -14,7 +14,7 @@ title: "Valeria y Jorge"
 images: valeria-jorge
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /sesion-de-fotos-de-pareja-en-barcelona-con-valeria-y-jorge
+permalink: /sesiones/sesion-de-fotos-de-pareja-en-barcelona-con-valeria-y-jorge
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "fotografa profesional, fotografa barata en barcelona, sesion de fotos en parejas, fotografia de boda, fotografia preboda, fotografia de novios, fotografa en barcelona"

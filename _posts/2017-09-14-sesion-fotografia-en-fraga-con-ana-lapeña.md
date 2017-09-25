@@ -11,7 +11,7 @@ categories: personal
 title: "Ana Lapeña"
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /sesion-fotografia-en-fraga-con-ana-lapeña
+permalink: /sesiones/sesion-fotografia-en-fraga-con-ana-lapeña
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "fotografa en fraga, sesion de fotos en fraga, fotografa profesional, fotografias al atardecer, fotografias personales"

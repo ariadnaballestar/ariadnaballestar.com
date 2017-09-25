@@ -14,7 +14,7 @@ title: "Gina y Edgard"
 images: gina-edgard
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /gina-edgard
+permalink: /sesiones/gina-edgard
 
 # Información detallada sobre la sesión
 description: "Cuando descubres que tienes el mejor pasillo del mundo en tu propia casa tienes que hacer una sesión. Un lugar mágico con una decoración navideña para hacer unas fotos de pareja súper románticas, aunque lo mejor de todo es esta pareja tan enamorada que hizo el trabajo muy fácil."

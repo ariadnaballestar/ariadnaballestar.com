@@ -12,7 +12,7 @@ title:  "Lorena y Aitor"
 images: Lorena-y-Aitor
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /lorena-y-aitor
+permalink: /sesiones/lorena-y-aitor
 
 # Información detallada sobre la sesión
 description: "Lorena es una mamá enamorada de su bebé, como a todas las madres, se le cae la baba cuando están juntos. Descubrí una localización muy bonita cerca de Fraga y no quise desaprovechar la oportunidad de ir con ella cuando el sol baja y nos da esas luces naranjas que tanto me gustan."

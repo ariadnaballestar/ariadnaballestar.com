@@ -14,7 +14,7 @@ title: "Neus Serra"
 images: Neus3
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /neus-serra
+permalink: /sesiones/neus-serra
 
 # Información detallada sobre la sesión
 description: "Esta es otra de las sesiones que hicimos en un interior precioso. En esta ocasión le toca a Neus, con ella ya hay confianza, es la tercera vez que repite y eso facilita mucho las cosas. ¡Siempre es un placer trabajar con ella!"

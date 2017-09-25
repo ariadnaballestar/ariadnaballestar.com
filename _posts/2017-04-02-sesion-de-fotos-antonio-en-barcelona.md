@@ -14,7 +14,7 @@ title: "Antonio"
 images: antonio-jose
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /sesion-de-fotos-antonio-en-barcelona
+permalink: /sesiones/sesion-de-fotos-antonio-en-barcelona
 
 # Información detallada sobre la sesión
 description: "La sesión de fotos con Antonio fue una sesión pasada por agua. Estuvo lloviendo sin parar más de una hora, pero eso no nos impidió hacer las fotos! Fue una tarde genial y nos divertimos como niños. Como veis, Antonio es un apasionado de la moda y hace unos conjuntos increíbles!"

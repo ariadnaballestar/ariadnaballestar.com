@@ -14,7 +14,7 @@ title: "Neus Flotando"
 images: neus-flotando
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /neus-flotando
+permalink: /sesiones/neus-flotando
 
 # Información detallada sobre la sesión
 description: "Como siempre las sesiones con Neus me encantan. Es un placer poder contar con gente con la que probar cosas nuevas y hacer cositas diferentes. ¡Estoy deseando repetir con ella pronto!"

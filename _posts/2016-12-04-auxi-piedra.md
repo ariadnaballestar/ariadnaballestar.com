@@ -14,7 +14,7 @@ title: "Auxi Piedra"
 images: Auxi-piedra
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /auxi-piedra
+permalink: /sesiones/auxi-piedra
 
 # Información detallada sobre la sesión
 description: "Para esta sesión contamos con una localización especial y preciosa: Un hotel en pleno centro de Barcelona. Se portaron genial con nosotras y nos cuidaron mucho. También contamos con una colección de una maravillosa diseñadora, Auxi y con una maquilladora súper profesional. Estoy encantada de haber podido contar con ellas y espero repetir alguna vez"

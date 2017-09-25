@@ -14,7 +14,7 @@ title: "Anna e Iratxe"
 images: iratxe-anna
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /iratxe-anna
+permalink: /sesiones/iratxe-anna
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "sesion de fotos profesional, sesion de fotos en barcelona, fotografo en barcelona, fotografa en barcelona, sesion de fotos en un barco, fotografia de moda, fotografia de barcos, fotografias en un velero, fotografo de moda, fotografo de moda en barcelona, fotografia a amigas"

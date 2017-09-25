@@ -14,7 +14,7 @@ title: "Anita Diaz"
 images: ana-diaz-escriche
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /fotografias-en-barcelona-luces-de-colores-con-ana-diaz-escriche
+permalink: /sesiones/fotografias-en-barcelona-luces-de-colores-con-ana-diaz-escriche
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "fotografa en barcelona, fotografo barato en barcelona, fotografo profesional en barcelona, fotografias con luces de colores, fotografia de estudio, fotografo de modelos"

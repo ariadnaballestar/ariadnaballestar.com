@@ -14,7 +14,7 @@ title: "Aitor, Lorena y Sergio"
 images: aitor-lorena-y-sergio
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /fotografia-de-familia-en-fraga-con-aitor-lorena-y-sergio
+permalink: /sesiones/fotografia-de-familia-en-fraga-con-aitor-lorena-y-sergio
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "fotografo de familia, fotografia de familia, fotografo barato, fotografo profesional, fotografo en fraga, sesion de fotos en familia"

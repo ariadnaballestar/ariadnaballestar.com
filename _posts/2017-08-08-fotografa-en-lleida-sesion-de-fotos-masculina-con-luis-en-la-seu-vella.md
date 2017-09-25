@@ -14,7 +14,7 @@ title: "Luis"
 images: Luis Canelo 2
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /fotografa-en-lleida-sesion-de-fotos-masculina-con-luis-en-la-seu-vella
+permalink: /sesiones/fotografa-en-lleida-sesion-de-fotos-masculina-con-luis-en-la-seu-vella
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "fotografa de lleida, fotografa profesional de lleida, sesion de fotos profesional, sesion de fotos masculina, sesion de fotos en la seu vella, fotografa de barcelona"

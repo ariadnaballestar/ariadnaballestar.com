@@ -12,7 +12,7 @@ title:  "Golden Paula"
 images: Paula-Dorado
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /golden-paula
+permalink: /sesiones/golden-paula
 
 # Información detallada sobre la sesión
 description: "Creo que hasta la fecha podría considerar ésta la mejor sesión que he hecho. El trabajo de maquillaje que hubo ántes de hacer las fotos valió la pena y Paula siempre sabe cómo posicionarse para dar buenas fotos. Estoy contentísima con esta sesión y con muchas ganas de hacer más con maquillajes fantasía."

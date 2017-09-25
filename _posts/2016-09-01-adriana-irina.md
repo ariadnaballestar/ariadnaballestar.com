@@ -14,7 +14,7 @@ title: "Adriana e Irina"
 images: adriana-irina
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /adriana-irina
+permalink: /sesiones/adriana-irina
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "Sesion de fotos amigas, sesion de fotos en fraga, sesion de fotos en barcelona, fotografo en barcelona, fotografo en fraga, fotografo en lleida, fotos de amigas, fotos en el campo"

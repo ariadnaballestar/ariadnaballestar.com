@@ -14,7 +14,7 @@ title: "Meritxell"
 images: meritxell
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /meritxell
+permalink: /sesiones/meritxell
 
 # Información detallada sobre la sesión
 description: "Meri trajo unos libros y libretas muy interesantes y decidimos utilizarlos en su sesión. La mezcla entre cultura y belleza es preciosa, ¿no creéis?"

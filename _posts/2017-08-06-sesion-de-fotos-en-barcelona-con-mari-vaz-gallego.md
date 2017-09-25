@@ -11,7 +11,7 @@ categories: personal
 title: "Mari"
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /sesion-de-fotos-en-barcelona-con-mari-vaz-gallego
+permalink: /sesiones/sesion-de-fotos-en-barcelona-con-mari-vaz-gallego
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "Fotógrafo en Barcelona, fotografias en la playa, fotografía de moda, sesion de fotos individual"

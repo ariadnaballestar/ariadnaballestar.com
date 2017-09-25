@@ -14,7 +14,7 @@ title: "Valeria y Jorge"
 images: valeria-y-jorge-2
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /fotografa-de-parejas-barcelona-sesion-en-la-playa-con-valeria-y-jorge
+permalink: /sesiones/fotografa-de-parejas-barcelona-sesion-en-la-playa-con-valeria-y-jorge
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "fotografo en barcelona, fotografo barato en barcelona, fotografo de bodas, fotografo de bodas en barcelona, sesion de fotos en la playa, fotos de pareja, fotos romanticas"

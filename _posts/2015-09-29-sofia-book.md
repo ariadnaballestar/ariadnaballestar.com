@@ -12,7 +12,7 @@ title:  "Sofia"
 images: Sofia-Book
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /sofia-book
+permalink: /sesiones/sofia-book
 
 # Información detallada sobre la sesión
 description: "Para la sesión con Sofía nos desplazamos de Barcelona a un pequeño interior de Reus. Allí hicimos las fotos, con música de fondo y entre risas. Fue un día muy divertido en el que aprendimos a sacarle el máximo partido a un foco improvisado el día anterior."

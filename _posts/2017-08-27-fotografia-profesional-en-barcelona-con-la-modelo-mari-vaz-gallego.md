@@ -14,7 +14,7 @@ title: "Mari Vaz"
 images: mari-vaz-gallego-tibidabo
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /fotografia-profesional-en-barcelona-con-la-modelo-mari-vaz-gallego
+permalink: /sesiones/fotografia-profesional-en-barcelona-con-la-modelo-mari-vaz-gallego
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "Fotografa en Barcelona, fotografa profesional, fotografias en el tibidabo, sesion de fotos personal, fotografa de moda, book modelos"

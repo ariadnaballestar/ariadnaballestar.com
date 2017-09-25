@@ -14,7 +14,7 @@ title: "Raquel"
 images: raquel
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /fotos-con-raquel-en-barcelona-de-la-fotografa-ariadna-ballestar
+permalink: /sesiones/fotos-con-raquel-en-barcelona-de-la-fotografa-ariadna-ballestar
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "fotografo en barcelona, sesion de fotos en barcelona, fotografa profesional, fotografa de moda, sesion de fotos en exterior"

@@ -14,7 +14,7 @@ title: "Neus y Txell"
 images: Neus-y-Txell
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /neus-y-txell
+permalink: /sesiones/neus-y-txell
 
 # Información detallada sobre la sesión
 description: "Esta sesión fue totalmente improvisada. Estabamos en una casa las tres, decidimos probar con dos chicas juntas en lugar de una sola, y la verdad es que fue muy interesante. ¡Espero que os guste!"

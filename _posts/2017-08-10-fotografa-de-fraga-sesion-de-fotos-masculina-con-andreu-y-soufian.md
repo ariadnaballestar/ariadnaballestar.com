@@ -14,7 +14,7 @@ title: "Andreu y Soufian"
 images: Andreu-y-Soufian
 
 # Enlace personalizado ej: ariadnaballestar.com/sesiones/NOMBRESESION
-permalink: /fotografa-de-fraga-sesion-de-fotos-masculina-con-andreu-y-soufian
+permalink: /sesiones/fotografa-de-fraga-sesion-de-fotos-masculina-con-andreu-y-soufian
 
 # Texto que se insertara en la etiqueta alt de todas las imagenes de la sesión
 altimages: "fotografa en fraga, sesion de fotos de amigos, fotografa en barcelona, fotografía en el campo, fotografia exterior, fotografia natural, fotografia sin flashes"
