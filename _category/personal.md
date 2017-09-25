@@ -1,8 +1,8 @@
 ---
 layout: category
 tag: personal
-permalink: /book-personal
-title: Book personal
+permalink: /sesiones/fotografia-personal
+title: Sesión de fotografía personal
 published: true
 ---
 # ¡Hola!

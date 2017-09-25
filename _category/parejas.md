@@ -1,8 +1,8 @@
 ---
 layout: category
 tag: parejas
-permalink: /book-parejas
-title: Book parejas
+permalink: /sesiones/fotografia-parejas
+title: Sesión de fotografía para parejas
 published: true
 ---
 ## ¡Hola!
