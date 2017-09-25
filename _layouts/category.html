@@ -18,10 +18,10 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 8]><script src="/assets/phantom/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="/assets/phantom/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="/assets/phantom/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/phantom/css/ie8.css" /><![endif]-->
 	</head>
 	<body>
 		<!-- Wrapper -->
@@ -71,8 +71,26 @@
 								{% for post in site.categories[page.tag] %}
 									<article>
 										<span class="image">
-											<!--<img src="{{ site.baseurl }}/images/{{ post.images }}/portada.jpg" alt="" />-->
-											<img src="images/{{ post.images }}/portada.jpg" alt="{{ post.title }}" />
+											{% if post.flickralbum %}
+												{% assign flickralbum = post.flickralbum | downcase %}
+												{% comment %}
+													downcase used to make sure that flickralbum is a string
+												{% endcomment %}
+												{% if site.data.photosets[flickralbum] %}
+													{% assign photoset = site.data.photosets[flickralbum] %}
+													{% for photo in photoset.photos %}
+														{% if photo.tags contains 'portada' %}
+															{% for size in photo.sizes %}
+																{% if size.label == 'Small 320' %}
+																	<img src="{{ size.url }}" alt="{{ post.title }}" />
+																	{% break %}
+																{% endif %}
+															{% endfor %}
+															{% break %}
+														{% endif %}
+													{% endfor %}
+												{% endif %}
+											{% endif %}
 										</span>
 										<a href="{{ post.url | prepend: site.baseurl }}">
 											<h2>{{ post.title }}</h2>
@@ -168,11 +186,11 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
+			<script src="/assets/phantom/js/jquery.min.js"></script>
+			<script src="/assets/phantom/js/skel.min.js"></script>
+			<script src="/assets/phantom/js/util.js"></script>
+			<!--[if lte IE 8]><script src="/assets/phantom/js/ie/respond.min.js"></script><![endif]-->
+			<script src="/assets/phantom/js/main.js"></script>
 
 			{% include google-analytics.html %}
 	</body>
