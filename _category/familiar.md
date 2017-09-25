@@ -2,7 +2,7 @@
 layout: category
 tag: familiar
 permalink: /sesiones/fotografia-familiar-y-grupal
-title: Fotografía familiar y grupal
+title: Sesión de fotografía familiar y grupal
 published: true
 ---
 # ¡Hola!
