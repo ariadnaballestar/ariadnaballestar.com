@@ -6,12 +6,12 @@ title: Sesión de fotografía para parejas
 published: true
 ---
 ## ¡Hola!
-¿Quieres un Book en pareja?
+¿Quieres una sesión de fotos en pareja en Barcelona o Fraga?
 
 ¡Estás en el lugar ideal!
 
-## ¿Para quién está pensado este book?
-Este book está pensado para dos personas, sea cual sea la relación que los una. Pueden ser pareja, amigos, familiares o simplemente dos personas que quieran hacerse fotos juntas.
+## ¿Para quién está pensado esta sesión?
+Esta sesión está pensado para **dos personas**, sea cual sea la relación que los una. Pueden ser **pareja, amigos, familiares** o simplemente dos personas que quieran hacerse fotos juntas.
 
 
 ## Además...
