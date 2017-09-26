@@ -7,12 +7,12 @@ published: true
 ---
 # ¡Hola!
 
-¿Estás pensando en hacer**Book Familiar o grupal**? ¡Sigue leyendo para tener más información!
+¿Estás pensando en hacer una **sesión de fotos o grupal** en Barcelona o Fraga? ¡Sigue leyendo para tener más información!
 
 
-### ¿Para quién está pensado este book?
+### ¿Para quién está pensada esta sesión?
 
-Está pensado para **familias y grupos** de gente en general. Amigos, empresas, fiestas, despedidas, etc. Con este book conseguirás fotos de todas las personas, tanto individuales como en pequeños y grandes grupos.
+Está pensada para **familias y grupos** de gente en general. Amigos, empresas, fiestas, despedidas, etc. Con esta sesión conseguirás fotos de todas las personas, tanto individuales como en pequeños y grandes grupos.
 
 
 ### Si lo prefieres…
