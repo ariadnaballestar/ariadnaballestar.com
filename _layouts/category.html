@@ -141,9 +141,9 @@
 						<div class="inner">
 							<section>
 								<h2>Contacto</h2>
-								<form method="post" action="https://formspree.io/info@ariadnaballestar.com">
+								<form name="contacto" netlify-honeypot="bot-field" action="/gracias" netlify>
 									<div class="field half first">
-										<input type="text" name="name" id="name" value="" placeholder="Tu nombre" required/>
+										<input type="text" name="nombre" id="name" value="" placeholder="Tu nombre" required/>
 									</div>
 									<div class="field half">
 										<input type="email" name="email" id="email" value="" placeholder="Tu coreo electrónico" required/>
@@ -160,11 +160,9 @@
 				                      	</div>
 									</div>
 									<div class="field">
-										<textarea name="message" id="message" placeholder="¿En que estás interesado/a?" required></textarea>
+										<textarea name="mensaje" id="message" placeholder="¿En que estás interesado/a?" required></textarea>
 									</div>
-									<input type="hidden" name="_subject" value="Contacto página web" />
-				                    <input type="hidden" name="_next" value="https://ariadnaballestar.com/gracias.html" />
-				                    <input type="hidden" name="_cc" value="aryadna93@gmail.com" />
+									<input style="display: none !important;" name="bot-field"/>
 									<ul class="actions">
 										<li><input type="submit" value="Enviar mensaje" class="special" /></li>
 									</ul>

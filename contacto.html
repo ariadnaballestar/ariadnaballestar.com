@@ -69,40 +69,38 @@
 
 			            <!-- Form -->
 			            <section>
-			                <form method="post" action="https://formspree.io/info@ariadnaballestar.com">
-			                  	<div class="row uniform 50%">
-				                    <div class="6u 12u$(xsmall)">
-				                      	<input type="text" name="name" id="name" value="" placeholder="Tu nombre" required/>
-				                    </div>
-				                    <div class="6u$ 12u$(xsmall)">
-				                      	<input type="email" name="email" id="email" value="" placeholder="Tu coreo electrónico" required/>
-				                    </div>
-				                    <div class="12u$">
-				                      	<div class="select-wrapper">
-				                        	<select name="categoria" id="categoria" required>
-				                          		<option value="">- Elige tu Book -</option>
-				                          		<option value="Personal">Book personal</option>
-				                          		<option value="Romantico">Book en pareja</option>
-				                          		<option value="Familiar">Book familiar</option>
-				                          		<option value="Otros">Otro</option>
-				                        	</select>
-				                      	</div>
-			                    	</div>
-				                    <div class="12u$">
-				                      	<textarea name="message" id="message" placeholder="¿En que estás interesado/a?" rows="3" required></textarea>
-				                    </div>
-				                    <input type="hidden" name="_subject" value="Contacto página web" />
-				                    <input type="hidden" name="_next" value="https://ariadnaballestar.com/gracias" />
-				                    <input type="hidden" name="_cc" value="aryadna93@gmail.com" />
-				                    <div class="12u$">
-				                      	<ul class="actions">
-				                        	<li><input type="submit" value="Enviar mensaje" class="special" /></li>
-				                        	<li><input type="reset" value="Borrar" /></li>
-				                      	</ul>
-				                    </div>
-			                  	</div>
-			                </form>
-			              </section>
+										<form name="contacto" netlify-honeypot="bot-field" action="/gracias" netlify>
+												<div class="row uniform 50%">
+													<div class="6u 12u$(xsmall)">
+															<input type="text" name="nombre" id="name" value="" placeholder="Tu nombre" required/>
+													</div>
+													<div class="6u$ 12u$(xsmall)">
+															<input type="email" name="email" id="email" value="" placeholder="Tu coreo electrónico" required/>
+													</div>
+													<div class="12u$">
+															<div class="select-wrapper">
+																<select name="categoria" id="categoria" required>
+																		<option value="">- Elige tu Book -</option>
+																		<option value="Personal">Book personal</option>
+																		<option value="Romantico">Book en pareja</option>
+																		<option value="Familiar">Book familiar</option>
+																		<option value="Otros">Otro</option>
+																</select>
+															</div>
+													</div>
+													<div class="12u$">
+															<textarea name="mensaje" id="message" placeholder="¿En que estás interesado/a?" rows="3" required></textarea>
+													</div>
+													<input style="display: none !important;" name="bot-field"/>
+													<div class="12u$">
+															<ul class="actions">
+																<li><input type="submit" value="Enviar mensaje" class="special" /></li>
+																<li><input type="reset" value="Borrar" /></li>
+															</ul>
+													</div>
+												</div>
+										</form>
+		              </section>
 			          </div>
 			    </div>
 			<!-- Footer -->
