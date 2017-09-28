@@ -5,8 +5,6 @@ permalink: /sesiones/fotografia-personal
 title: Sesión de fotografía personal
 published: true
 ---
-# ¡Hola!
-
 Veo que te interesa una **sesión de fotos personal**, esta sesión está indicada para todas aquellas personas que quieran tener un bonito recuerdo de ellas mismas. Las sesiones de fotos son tanto en Barcelona como en Fraga y sus alrededores.
 
 ## ¿Qué es?

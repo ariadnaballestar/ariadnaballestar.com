@@ -5,7 +5,6 @@ permalink: /sesiones/fotografia-parejas
 title: Sesión de fotografía para parejas
 published: true
 ---
-## ¡Hola!
 ¿Quieres una sesión de fotos en pareja en Barcelona o Fraga?
 
 ¡Estás en el lugar ideal!
