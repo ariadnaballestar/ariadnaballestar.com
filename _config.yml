@@ -2,6 +2,8 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+include: [_redirects]
+
 url: https://ariadnaballestar.com
 baseurl: ""
 enforce_ssl: ariadnaballestar.com

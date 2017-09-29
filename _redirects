@@ -1,0 +1,5 @@
+# Netlify redirects
+/galerias/book-familiar       /sesiones/fotografia-familiar-y-grupal
+/galerias/book-parejas        /sesiones/fotografia-parejas
+/galerias/book-personal       /sesiones/fotografia-personal
+/galerias/sobre-mi            /sobre-mi
