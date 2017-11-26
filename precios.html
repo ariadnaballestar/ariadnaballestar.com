@@ -187,7 +187,7 @@ permalink: precios
 								<h4>NORMAS BÁSICAS DE CONTRATACIÓN:</h4>
 								<ul>
 									<li>Se realizará una paga y señal del 50% del valor de la sesión para formalizar la reserva. Se puede abonar la reserva por medio de un ingreso en cuenta bancaria. </li>
-									<li>La paga y señal sólo se devolverá la sesión es cancelada por mi parte.</li>
+									<li>La paga y señal sólo se devolverá si la sesión es cancelada por mi parte.</li>
 									<li>Con previo aviso de mínimo una semana de antelación, es posible aplazar la sesión hasta un mes.</li>
 									<li>En caso de no avisar con mínimo una semana de antelación, la paga y señal se pierde.</li>
 									<li>Espero que entendáis que preparar una sesión requiere mucho tiempo y, que en caso de cancelar a última hora, todo ese tiempo podría haber sido invertido en otros asuntos. Disculpad las molestias.</li>
@@ -198,6 +198,54 @@ permalink: precios
 					</div>
 				</div>
 
+				<!-- Contacto -->
+			 <div class="wrapper style1">
+				 <div id="contacto" class="container">
+					 <header class="major">
+							 <h2>Contacta conmigo</h2>
+							 <ul class="actions vertical small">
+								 <li>Mándame un mail a <strong><a href="mailto:info@ariadnaballestar.com">info@ariadnaballestar.com</a></strong></li>
+								 <li>Llama o envía un WhatsApp al <strong><a href="tel:+34654712346">654712346</a></strong></li>
+								 <li>O bien, rellena este sencillo formulario y me pondré en contacto contigo en breve</li>
+							 </ul>
+					 </header>
+
+					 <!-- Form -->
+					 <section>
+							 <form name="contacto" netlify-honeypot="bot-field" action="/gracias" netlify>
+									 <div class="row uniform 50%">
+										 <div class="6u 12u$(xsmall)">
+												 <input type="text" name="nombre" id="name" value="" placeholder="Tu nombre" required/>
+										 </div>
+										 <div class="6u$ 12u$(xsmall)">
+												 <input type="email" name="email" id="email" value="" placeholder="Tu coreo electrónico" required/>
+										 </div>
+										 <div class="12u$">
+												 <div class="select-wrapper">
+													 <select name="categoria" id="categoria" required>
+															 <option value="">- Elige tu Book -</option>
+															 <option value="Personal">Fotografía personal</option>
+															 <option value="Romantico">Fotografía para parejas</option>
+															 <option value="Familiar">Fotografía familiar y grupal</option>
+															 <option value="Otros">Otro</option>
+													 </select>
+												 </div>
+										 </div>
+										 <div class="12u$">
+												 <textarea name="mensaje" id="message" placeholder="¿En que estás interesado/a?" rows="3" required></textarea>
+										 </div>
+										 <input style="display: none !important;" name="bot-field"/>
+										 <div class="12u$">
+												 <ul class="actions">
+													 <li><input type="submit" value="Enviar mensaje" class="special" /></li>
+													 <li><input type="reset" value="Borrar" /></li>
+												 </ul>
+										 </div>
+									 </div>
+							 </form>
+						 </section>
+				 </div>
+			 </div>
 			<!-- Footer -->
 				<footer id="footer">
 					<ul class="icons">
