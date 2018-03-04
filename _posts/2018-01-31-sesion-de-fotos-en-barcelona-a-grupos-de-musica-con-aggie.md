@@ -20,7 +20,7 @@ altimages: "Sesion de fotos profesional en barcelona, fotografa en barcelona, fo
 colaboradores:
  - title: "Cantante:"
    name: "Aggie"
-   link: "goo.gl/VNkmeY"
+   link: "https://open.spotify.com/album/4D2BfSEquAqeirCFQTxvxN"
  - title: "Maquilladora:"
    name: "Jennifer Fernandez"
    link: "https://www.instagram.com/jfmakeupartist/"
@@ -39,6 +39,6 @@ Seguimos por un doll make up muy divertido, con las mejillas rositas y un vestid
 
 Y para terminar, hicimos un body paint en blanco, con el símbolo ''play'' en el pecho. Fue una tarde genial y muy divertida.
 
-¡Si queréis escuchar sus canciones, haced click en [este enlace](goo.gl/VNkmeY) y ya veréis que pedazo de artista está hecha!
+¡Si queréis escuchar sus canciones, haced click en [este enlace](https://open.spotify.com/album/4D2BfSEquAqeirCFQTxvxN) y ya veréis que pedazo de artista está hecha!
 
 
